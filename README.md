@@ -17,6 +17,7 @@ Repositorio usado para las clases de ASGBD
 
 ### Examen 1
 - [Jueves 07/11/2024](/Schedule/UD3/Jueves%2007-11-2024.md)
+- [Martes 26/11/2024](/Schedule/UD3/Martes%2026-11-2024.md)
 
 
 
