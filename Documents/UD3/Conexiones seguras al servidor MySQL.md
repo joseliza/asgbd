@@ -35,11 +35,11 @@ mysql -h <server_host> -P <port> -u <username> -p \
 ```
 - Si el servidor no requiere autenticación mutua, puedes omitir `--ssl-cert` y `--ssl-key`:
 ```bash
-mysql -h <server_host> -P <port> -u <username> -p --ssl-ca=/local/path/to/ca.pem
+mysql -h <server_host> -P <port> -u <username> -p --ssl-ca=/local/path/to/ca.pem --ssl-mode=VERIFY_CA
 ```
 Por ejemplo:
 ```bash
-mysql -h 127.0.0.1 -P 33060 -u admin -p --ssl-ca=/local/path/to/ca.pem
+mysql -h 127.0.0.1 -P 33060 -u admin -p --ssl-ca=/local/path/to/ca.pem --ssl-mode=VERIFY_CA
 ```
 
 ### Opción 2: Configurar SSL en el archivo `~/.my.cnf`
