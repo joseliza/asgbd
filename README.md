@@ -20,5 +20,6 @@ Repositorio usado para las clases de ASGBD
 - [Jueves 28/11/2024](/Schedule/UD3/Jueves%2028-11-2024.md)
 - [Lunes 02/12/2024](/Schedule/UD3/Lunes%2002-12-2024.md)
 - [Martes 03/12/2024](/Schedule/UD3/Martes%2003-12-2024.md)
+- [Martes 10/12/2024](/Schedule/UD3/Martes%2010-12-2024.md)
 
 
