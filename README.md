@@ -23,7 +23,8 @@ Repositorio usado para las clases de ASGBD
 - [Martes 10/12/2024](/Schedule/UD3/Martes%2010-12-2024.md)
 - [Jueves 12/12/2024](/Schedule/UD3/Jueves%2012-12-2024.md)
 
-### UD4.  Construcción de guiones de administración
+### UD4. Construcción de guiones de administración
 
 - [Martes 17/12/2024](/Schedule/UD4/Martes%2017-12-2024.md)
+- [Jueves 09/01/2025](/Schedule/UD4/)
 
