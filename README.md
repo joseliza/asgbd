@@ -15,7 +15,7 @@ Repositorio usado para las clases de ASGBD
 - [Martes 05/11/2024](/Schedule/UD3/Martes%2005-11-2024.md)
 - [Martes 12/11/2024 y jueves 14/11/2024](/Schedule/UD3/Martes%2012-11-2024%20y%20jueves%2014-11-2024.md)
 
-- [Jueves 07/11/2024](/Schedule/UD3/Jueves%2007-11-2024.md) - Examen 1
+- [Jueves 07/11/2024](/Schedule/UD3/Jueves%2007-11-2024.md): Examen 1
 - [Martes 26/11/2024](/Schedule/UD3/Martes%2026-11-2024.md)
 - [Jueves 28/11/2024](/Schedule/UD3/Jueves%2028-11-2024.md)
 - [Lunes 02/12/2024](/Schedule/UD3/Lunes%2002-12-2024.md)
@@ -27,4 +27,5 @@ Repositorio usado para las clases de ASGBD
 
 - [Martes 17/12/2024](/Schedule/UD4/Martes%2017-12-2024.md)
 - [Jueves 09/01/2025](/Schedule/UD4/Jueves%2009-01-2025.md)
+- [Martes 14/01/2025](/Schedule/UD4/Martes%2014-01-2025.md): Procedimientos y funciones
 
