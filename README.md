@@ -30,3 +30,4 @@ Repositorio usado para las clases de ASGBD
 - [Martes 14/01/2025](/Schedule/UD4/Martes%2014-01-2025.md): Procedimientos y funciones
 - [Jueves 16/01/2025](/Schedule/UD4/Jueves%2016-01-2025.md): Procedimientos y funciones - Ejercicios en clase
 - [Martes 21/01/2025](/Schedule/UD4/Martes%2021-01-2025.md): Procedimientos y funciones - Ejercicios en clase
+- [Jueves 23/01/2025](/Schedule/UD4/Jueves%2023-01-2025.md): Tarea 4.1. Gestión de Empleados: Procedimientos y Funciones
