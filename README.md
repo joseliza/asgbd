@@ -34,4 +34,4 @@ Repositorio usado para las clases de ASGBD
 - [Martes 21/01/2025](/Schedule/UD4/Martes%2021-01-2025.md): Procedimientos y funciones - Ejercicios en clase.
 - [Jueves 23/01/2025](/Schedule/UD4/Jueves%2023-01-2025.md): Tarea 4.1. Gestión de Empleados: Procedimientos y Funciones.
 - [Martes 28/01/2025](/Schedule/UD4/Martes%2028-01-2025.md): Solucionamos Tarea 4.1 y explico las formas de usar un cursor en MySQL.
-- [Martes 28/01/2025](/Schedule/UD4/Jueves%2030-01-2025.md): Presento los disparadores.
+- [Jueves 30/01/2025](/Schedule/UD4/Jueves%2030-01-2025.md): Presento los disparadores.
