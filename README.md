@@ -37,3 +37,4 @@ Repositorio usado para las clases de ASGBD
 - [Jueves 30/01/2025](/Schedule/UD4/Jueves%2030-01-2025.md): Presento los disparadores.
 - [Martes 04/02/2025](/Schedule/UD4/Martes%2004-02-2025.md): Hacemos ejercicios de disparadores.
 - [Jueves 06/02/2025](/Schedule/UD4/Jueves%2006-02-2025.md): Ejercicios de disparadores y vistas en MySQL.
+- [Martes 11/02/2025](/Schedule/UD4/Martes%2011-02-2024.md): Tarea 4.2. Disparadores.
