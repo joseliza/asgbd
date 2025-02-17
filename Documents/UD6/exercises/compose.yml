@@ -1,0 +1,30 @@
+services:
+  mysql-master:
+    image: mysql:8.0-debian
+    container_name: mysql-master
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: usuario
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./master.cnf:/etc/mysql/my.cnf
+      - mysql_master_data:/var/lib/mysql
+
+  mysql-slave:
+    image: mysql:8.0-debian
+    container_name: mysql-slave
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: usuario
+    ports:
+      - "3307:3306"
+    depends_on:
+      - mysql-master
+    volumes:
+      - ./slave.cnf:/etc/mysql/my.cnf
+      - mysql_slave_data:/var/lib/mysql
+
+volumes:
+  mysql_master_data:
+  mysql_slave_data:

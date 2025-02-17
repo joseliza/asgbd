@@ -42,3 +42,7 @@ Repositorio usado para las clases de ASGBD
 ### UD5. Optimización del rendimiento del SGBD
 
 - [Jueves 13/02/2025](/Schedule/UD5/Jueves%2013-02-2025.md): Uso de índices.
+
+### UD6. Bases de datos distribuidas y alta disponibilidad.
+
+- [Martes 18/02/2025](/Schedule/UD6/Martes%2018-02-2025.md): Bases de datos sistribuidas. Alta disponibilidad con replicación maestro - esclavo
