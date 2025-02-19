@@ -45,5 +45,5 @@ Repositorio usado para las clases de ASGBD
 
 ### UD6. Bases de datos distribuidas y alta disponibilidad.
 
-- [Martes 18/02/2025](/Schedule/UD6/Martes%2018-02-2025.md): Bases de datos sistribuidas. Alta disponibilidad con replicación maestro - esclavo
-- [Jueves 20/02/2025](/Schedule/UD6/Jueves%2020-02-2025.md): Bases de datos sistribuidas. Alta disponibilidad con replicación maestro - esclavo
+- [Martes 18/02/2025](/Schedule/UD6/Martes%2018-02-2025.md): Bases de datos distribuidas. Alta disponibilidad con replicación maestro - esclavo
+- [Jueves 20/02/2025](/Schedule/UD6/Jueves%2020-02-2025.md): Bases de datos distribuidas. Alta disponibilidad con replicación maestro - esclavo
